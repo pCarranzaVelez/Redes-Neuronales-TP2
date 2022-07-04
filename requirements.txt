@@ -1,0 +1,8 @@
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install image-dataset-viz
+pip install seaborn
+pip install sklearn
+pip install tensorflow
+pip install scikit-image
